@@ -86,14 +86,29 @@ Key findings include:
 ```
 drug-classification-decision-tree/
 │
-├── notebook.ipynb
+├── Drug_classification.ipynb
 ├── README.md
-├── requirements.txt
-├── data/
 └── images/
 ```
 
 ---
+## Project visualizations
+
+### Pairplot
+
+![Pairplot](images/pairplot.png)
+
+### Decision Tree
+
+![Decision Tree](images/decision_tree.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## Future improvements
 
