@@ -89,6 +89,7 @@ drug-classification-decision-tree/
 ├── Drug_classification.ipynb
 ├── README.md
 └── images/
+ -- data/drugs.csv
 ```
 
 ---
