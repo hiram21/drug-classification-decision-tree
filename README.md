@@ -88,8 +88,12 @@ drug-classification-decision-tree/
 │
 ├── Drug_classification.ipynb
 ├── README.md
+├── drugs.csv
 └── images/
- -- data/drugs.csv
+    ├── pairplot.png
+    ├── decision_tree.png
+    ├── feature_importance.png
+    └── confusion_matrix.png
 ```
 
 ---
