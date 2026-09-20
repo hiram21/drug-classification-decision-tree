@@ -86,7 +86,7 @@ Key findings include:
 ```
 drug-classification-decision-tree/
 │
-├── Drug_classification.ipynb
+├── drug_classification.ipynb
 ├── README.md
 ├── drugs.csv
 └── images/
@@ -107,11 +107,11 @@ drug-classification-decision-tree/
 
 ![Decision Tree](images/decision_tree.png)
 
-### Feature Importance
+### Feature importance
 
 ![Feature Importance](images/feature_importance.png)
 
-### Confusion Matrix
+### Confusion matrix
 
 ![Confusion Matrix](images/confusion_matrix.png)
 
